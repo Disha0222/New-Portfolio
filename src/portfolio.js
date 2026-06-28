@@ -20,8 +20,8 @@ const illustration = {
 };
 
 const greeting = {
-  username: 'Rohan Zode',
-  title: "Hi all, I'm Rohan",
+  username: 'Disha Kukade',
+  title: "Hi all, I'm Disha",
   subTitle: emoji(
     'A passionate Backend Developer 🚀 specializing in Python and Django REST Framework, with experience in building custom APIs and backend logic for scalable web applications.'
   ),
