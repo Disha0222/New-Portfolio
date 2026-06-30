@@ -33,9 +33,9 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: 'https://github.com/rohanzode123',
-  linkedin: 'https://www.linkedin.com/in/rohan-zode-230717238/',
-  gmail: 'rohanzode40@gmail.com',
+  github: 'https://github.com/Disha0222/',
+  linkedin: 'https://www.linkedin.com/in/disha-kukade-5769a9257/',
+  gmail: 'dishakukade801@gmail.com',
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true, // Set true to display this section, defaults to false
