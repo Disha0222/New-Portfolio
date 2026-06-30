@@ -23,7 +23,7 @@ const greeting = {
   username: 'Disha Kukade',
   title: "Hi all, I'm Disha",
   subTitle: emoji(
-    'A passionate Backend Developer 🚀 specializing in Python and Django REST Framework, with experience in building custom APIs and backend logic for scalable web applications.'
+    'Full Stack Developer 🚀 specializing in Java, Spring Boot, Hibernate, and JavaScript, with experience building end-to-end scalable web applications.'
   ),
   resumeLink:
     'https://drive.google.com/file/d/1mQwi-U22ifV0-79sGu-XwBvTEapbsusS/view?usp=sharing', // Set to empty to hide the button
@@ -45,16 +45,16 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: 'What I do',
-  subTitle: 'CRAZY BACKEND DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK',
+  subTitle: 'Beginner Java Developer with a Passion for Learning New Technologies',
   skills: [
     emoji(
-      '⚡ Development of scalable and secure REST APIs using Django REST Framework'
+      '⚡ Custom business logic implementation and backend workflows in Java'
     ),
     emoji(
-      '⚡ Custom business logic implementation and backend workflows in Python'
+      '⚡Efficient handling of databases and ORM mapping using Hibernate'
     ),
     emoji(
-      '⚡ Efficient handling of databases, authentication, and background tasks with Celery & Redis'
+      '⚡ Frontend integration and dynamic UI behavior using JavaScript'
     ),
   ],
 
