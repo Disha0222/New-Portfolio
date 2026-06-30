@@ -127,22 +127,22 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: 'Yashwantrao Chavan College of Engineering',
+      schoolName: 'Prerna College of Commerce',
       logo: require('./assets/images/ycmou.png'),
-      subHeader: 'Graduate Degree in BSC',
-      duration: 'April 2020 - May 2023',
+      subHeader: 'Graduate Degree in BSC [IT]',
+      duration: 'May 2022 - May 2025',
     },
     {
-      schoolName: 'Saint Paul High School Nagpur',
+      schoolName: 'Maharishi Vidya Mandir Chandrapur',
       logo: require('./assets/images/saintpaul.jpeg'),
       subHeader: 'Higher Secondary Certificate',
-      duration: 'Feb 2017 - Aug 2018',
+      duration: 'Feb 2021 - Aug 2022',
     },
     {
-      schoolName: 'Devyanee International School Sindewahi',
+      schoolName: 'Infant Jesus English Public High School',
       logo: require('./assets/images/devyani_logo.png'),
       subHeader: 'Secondary School Certificate',
-      duration: 'Feb 2017 - Aug 2018',
+      duration: 'Feb 2015 - Aug 2020',
     },
   ],
 };
@@ -153,7 +153,7 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: 'Django', //Insert stack or technology you have experience in
+      Stack: 'Java', //Insert stack or technology you have experience in
       progressPercentage: '90%', //Insert relative proficiency in percentage
     },
     {
