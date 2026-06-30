@@ -63,52 +63,59 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: 'Python',
-      fontAwesomeClassname: 'fab fa-python',
+      skillName: 'Java',
+      fontAwesomeClassname: 'fab fa-java',
     },
     {
-      skillName: 'Django',
-      fontAwesomeClassname: 'fab fa-Django',
+      skillName: 'Spring Framework',
+      fontAwesomeClassname: 'fab fa-Spring',
     },
     {
-      skillName: 'Django REST Framework',
-      fontAwesomeClassname: 'fab fa-django-rest-framework',
+      skillName: ' Spring Boot',
+      fontAwesomeClassname: 'fab fa-spring boot',
     },
     {
-      skillName: 'FastAPI',
-      fontAwesomeClassname: 'fab fa-fastapi',
+      skillName: 'Hibernate',
+      fontAwesomeClassname: 'fab fa-hibernate',
     },
     {
-      skillName: 'reactjs',
-      fontAwesomeClassname: 'fab fa-react',
+      skillName: 'JavaScript',
+      fontAwesomeClassname: 'fab fa-javascript',
     },
     {
-      skillName: 'postgresql',
-      fontAwesomeClassname: 'fab fa-postgresql',
-    },
-    {
-      skillName: 'mysql',
+      skillName: 'MySQL',
       fontAwesomeClassname: 'fab fa-mysql',
     },
     {
-      skillName: 'celery',
-      fontAwesomeClassname: 'fab fa-celery',
+      skillName: 'JSP',
+      fontAwesomeClassname: 'fab fa-jsp',
     },
     {
-      skillName: 'rabbitmq',
-      fontAwesomeClassname: 'fas fa-rabbit',
+      skillName: 'JSTL',
+      fontAwesomeClassname: 'fab fa-jstl',
     },
     {
-      skillName: 'aws',
-      fontAwesomeClassname: 'fab fa-aws',
+      skillName: 'Servlet',
+      fontAwesomeClassname: 'fas fa-servlet',
+    },
+    {
+      skillName: 'Maven',
+      fontAwesomeClassname: 'fab fa-maven',
     },
     {
       skillName: 'github',
       fontAwesomeClassname: 'fab fa-github',
     },
     {
-      skillName: 'docker',
-      fontAwesomeClassname: 'fab fa-docker',
+      skillName: 'JavaMail API',
+      fontAwesomeClassname: 'fab fa-javamail api ',
+    },
+     {
+      skillName: ' Spring MVC',
+      fontAwesomeClassname: 'fab fa-spring mvc  ',
+    }, {
+      skillName: 'JDBC',
+      fontAwesomeClassname: 'fab fa-jdbc  ',
     },
   ],
   display: true, // Set false to hide this section, defaults to true
