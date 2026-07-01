@@ -128,7 +128,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: 'Prerna College of Commerce',
-      logo: require('./assets/images/bscit.jpg'),
+      logo: require('./assets/images/bscit.jpeg'),
       subHeader: 'Graduate Degree in BSC [IT]',
       duration: 'May 2022 - May 2025',
     },
